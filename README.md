@@ -1,0 +1,2 @@
+# testGitIgnore
+for gitignore test
